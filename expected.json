@@ -1,0 +1,18 @@
+{
+  "repository": "pgm-testing/sbom-demo-swift",
+  "action_revision": "ed68e4cc4c42a25a88a12f8ac26f520986851ec5",
+  "probes": [
+    {
+      "name": "iOS Stellar SDK",
+      "purl": "pkg:swift/github.com/Soneso/stellar-ios-mac-sdk",
+      "version": "3.14.0",
+      "repo": "pkg:github/Soneso/stellar-ios-mac-sdk"
+    },
+    {
+      "name": "Swift Collections control",
+      "purl": "pkg:swift/github.com/apple/swift-collections",
+      "version": "1.1.4",
+      "repo": null
+    }
+  ]
+}
