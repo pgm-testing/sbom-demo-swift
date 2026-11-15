@@ -14,5 +14,17 @@
       "version": "1.1.4",
       "repo": null
     }
+  ],
+  "atlas_checks": [
+    {
+      "canonical_id": "pkg:github/Soneso/stellar-ios-mac-sdk",
+      "vertex_type": "repo",
+      "version_range": "3.14.0"
+    },
+    {
+      "canonical_id": "pkg:swift/github.com/apple/swift-collections",
+      "vertex_type": "external-repo",
+      "version_range": "1.1.4"
+    }
   ]
 }
